@@ -20,6 +20,10 @@ Currently studying Computer Engineering at UFRJ. Always up for learning and grow
 </div>
 
 ##
+## This is where you can also reach me : [![Linkedin: André Hoffman](https://img.shields.io/badge/-AndreHoffman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AlineBastos/)](https://www.linkedin.com/in/andrreehoffman/)
+##
+
+
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
