@@ -2,7 +2,7 @@
 
 ### Full-Stack Web Developer
 ##
-Currently studying Computer Engineering at UFRJ. Always up for learning and growing. Today's gonna be fantastic!
+Currently studying Computer Engineering at UFRJ. Always up for learning and growing !
 
 # The Tolls I use
 </div>
