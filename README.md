@@ -2,7 +2,7 @@
 
 ### Full-Stack Web Developer
 ##
-Currently studying Computer Engineering at UFRJ. Always up for learning and growing !
+Currently studying Computer Engineering and doing an Internship at Economapas as Full Stack Web Developer. Always up for learning and growing !
 
 # The Tolls I use
 </div>
