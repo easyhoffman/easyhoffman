@@ -1,6 +1,6 @@
 ## Hey, I'm glad to see you!
 
-### Full-Stack Web Developer
+### Software Engineer
 ##
 Currently studying Computer Engineering and doing an Internship at Economapas as Full Stack Web Developer. Always up for learning and growing !
 
