@@ -2,7 +2,7 @@
 
 ### Software Engineer
 ##
-Currently studying Computer Engineering and doing an Internship at Economapas as Full Stack Web Developer. Always up for learning and growing !
+Computer Engineer working in Cybersecurity and Fraud Prevention at Bank of Brazil. Always up for learning and growing !
 
 # The Tolls I use
 </div>
